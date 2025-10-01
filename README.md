@@ -51,7 +51,7 @@ Example:
 
 ![Dashboard Homepage](Images/homepage.png)  
 ![Sales Performance](https://github.com/Ahmed-Attia-div/PowerBI-Sales-Dashboard/blob/main/MainPage)  
-![Drillthrough Page](Images/drillthrough.png)  
+![Drillthrough Page](https://github.com/Ahmed-Attia-div/PowerBI-Sales-Dashboard/blob/main/DrillThrough)  
 
 ---
 
