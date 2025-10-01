@@ -50,7 +50,7 @@ The dashboard provides insights into:
 Example:  
 
 ![Dashboard Homepage](Images/homepage.png)  
-![Sales Performance]([Images/sales-performance.png](https://github.com/Ahmed-Attia-div/PowerBI-Sales-Dashboard/blob/main/MainPage))  
+![Sales Performance](https://github.com/Ahmed-Attia-div/PowerBI-Sales-Dashboard/blob/main/MainPage)  
 ![Drillthrough Page](Images/drillthrough.png)  
 
 ---
