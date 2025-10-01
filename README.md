@@ -1,5 +1,3 @@
-# PowerBI-Sales-Dashboard
-Power BI Sales Performance Dashboard
 # 🚀 Power BI Sales Performance Dashboard  
 
 As part of the **Digital Egypt Pioneers Initiative (DEPI)**, I built my first **Power BI dashboard** to analyze and visualize sales performance.  
